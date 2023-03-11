@@ -1,4 +1,5 @@
-const oaikey = "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";
+// const oaikey = "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";
+const oaikey = "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";
 
 export const generatePromts = async (prompt) => {
     try {
